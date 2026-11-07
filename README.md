@@ -11,7 +11,7 @@ An interactive **Power BI** dashboard analyzing three months of supermarket sale
 | Item | Details |
 |------|---------|
 | **Tool** | Microsoft Power BI Desktop |
-| **Dataset** | `supermarket_sales - Sheet1.csv` (1,000 transactions) |
+| **Dataset** | `supermarket_sales - Sheet1.csv` (1,000 transactions) — [Download from Google Drive](https://drive.google.com/file/d/1eV-J34fdCVmyVR7ii402OiAQjJjdfZ_B/view?usp=drive_link) |
 | **Period** | January – March 2019 |
 | **Branches / Cities** | A – Yangon · B – Mandalay · C – Naypyitaw |
 | **Report file** | `super_market_sales.pbix` |
@@ -57,6 +57,8 @@ An interactive **Power BI** dashboard analyzing three months of supermarket sale
 - The average rating of **6.97** suggests room to improve customer satisfaction.
 
 ## 🗂️ Dataset Description
+
+📥 **Dataset link:** [supermarket_sales.csv on Google Drive](https://drive.google.com/file/d/1eV-J34fdCVmyVR7ii402OiAQjJjdfZ_B/view?usp=drive_link)
 
 | Column | Description |
 |--------|-------------|
@@ -105,6 +107,39 @@ Super-Market_Sales/
    ```
 2. Open `super_market_sales.pbix` in **Power BI Desktop**.
 3. Use the **Month** slicer and click any visual to cross-filter the report.
+
+## 🤝 Contributing
+
+Contributions are welcome! To contribute:
+
+1. **Fork** this repository.
+2. **Create a branch** for your change:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. **Make your changes**, such as new visuals, DAX measures, insights, or documentation fixes.
+4. **Commit** with a clear message:
+   ```bash
+   git commit -m "Add: short description of your change"
+   ```
+5. **Push** your branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+6. **Open a Pull Request** and describe what you changed and why.
+
+Please keep changes focused, and include a screenshot when you change the dashboard.
+
+## 🐞 Issues
+
+Found a bug, a wrong number, or have an idea for improvement?
+
+- Check the [Issues](../../issues) tab to see whether it has already been reported.
+- If not, **open a new issue** that includes:
+  - A clear title and description
+  - Steps to reproduce (for bugs)
+  - Screenshots, if helpful
+  - Your Power BI Desktop version (if relevant)
 
 ## 👤 Author
 
